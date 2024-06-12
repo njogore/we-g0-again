@@ -1,0 +1,19 @@
+#increment-btn{
+    background-color: aqua;
+    padding: 5px 15px;
+    font-size: 20px;
+    font-weight: 550;
+    border-radius: 5px;
+    border: none;
+}
+body{
+    text-align: center;
+}
+#save-btn{
+    background-color: aqua;
+    padding: 5px 15px;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 5px;
+    border: none;
+}  
