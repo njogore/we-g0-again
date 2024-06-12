@@ -8,6 +8,7 @@
 }
 body{
     text-align: center;
+    background-color: gray;
 }
 #save-btn{
     background-color: aqua;
